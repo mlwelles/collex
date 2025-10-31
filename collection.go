@@ -1,7 +1,7 @@
 package collex
 
 import (
-	"github.com/noho-digital/genny/generic"
+	"github.com/cheekybits/genny/generic"
 )
 
 type Func func()
