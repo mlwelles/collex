@@ -2,7 +2,7 @@ package collex
 
 import (
 	"testing"
-	"github.com/mwelles/suite"
+	"github.com/mlwelles/suite"
 )
 
 func TestSetSuite(t *testing.T) {

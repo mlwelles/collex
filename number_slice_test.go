@@ -7,7 +7,7 @@ import (
 
 	"github.com/bradfitz/iter"
 	. "github.com/onsi/gomega"
-	"github.com/mwelles/suite"
+	"github.com/mlwelles/suite"
 )
 
 func TestNumberSliceSuite(t *testing.T) {
